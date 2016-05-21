@@ -172,6 +172,7 @@
 			<artifactId>mule-transport-jms</artifactId>
 			<version>${mule.version}</version>
 		</dependency>
+	<!--  I feel like I need a comment here -->
 	<dependency>
             <groupId>org.mule.modules</groupId>
             <artifactId>mule-module-json</artifactId>
